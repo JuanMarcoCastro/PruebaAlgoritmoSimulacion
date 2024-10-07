@@ -17,6 +17,7 @@ namespace PruebaAlgoritmoSimulacion.Clases
         public double Competitividad { get; set; }
 
         // Constructor
+        // otro comentario
         public Arco()
         { 
         }
